@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I'm Alexey Makarov
+- 🌱 I’m currently learning Unity engine
+- :yum: :smirk: I love gamedev
 <!--
 **theokunb/theokunb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
